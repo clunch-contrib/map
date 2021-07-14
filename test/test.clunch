@@ -1,1 +1,1 @@
-<ui-map c-on:click='doit' />
+<ui-map :geo-json='imageData' c-on:click='doit' />
