@@ -48,7 +48,7 @@ Clunch.series('ui-map',map);
 |stroke-color|string \| function|区域轮廓色|white||
 |font-color|string|文字颜色|blue||
 |type|string|区域绘制方法|full|fill \| full \| stroke|
-|scale||number|地图缩放倍数|默认自动给出一个最佳值|
+|scale|number|地图缩放倍数|默认自动给出一个最佳值||
 |center|Array<number,number>|地图中心经纬度|默认自动给出一个最佳值||
 
 ### GeoJSON数据
